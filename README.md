@@ -1,54 +1,55 @@
 # sustainable-smart-city
-Sustainable Smart City
+# 🌆 Sustainable Smart City
 
-A collaborative Smart City application developed as part of the IBM SkillsBuild Generative AI Internship in association with APSCHE. The project explores the use of Generative AI and Python to address urban management challenges through intelligent, data-driven solutions.
+A collaborative Smart City application developed during the **IBM SkillsBuild Generative AI Internship** in collaboration with **APSCHE**. The project explores the application of **Generative AI** and **Python** to support sustainable urban management and citizen-centric services.
 
-Note: This repository contains the project developed during the internship. The implementation was completed collaboratively by the project team. My contribution primarily involved participating in project activities, testing, documentation, and understanding the overall system architecture.
+> **Note:** This repository represents a collaborative internship project. My contribution included project participation, documentation, testing, and understanding the overall system architecture. It is maintained here as part of my internship portfolio.
 
-Project Overview
+---
 
-The Sustainable Smart City project aims to demonstrate how Artificial Intelligence can assist in improving urban services by integrating smart technologies for better decision-making and citizen support.
+## 🚀 Project Overview
 
-The project focuses on:
+The objective of this project is to demonstrate how Generative AI can assist in solving real-world urban challenges through intelligent automation and data-driven decision making.
 
-Smart city management
-AI-assisted citizen services
-Sustainable urban development
-Intelligent information retrieval
-Cloud-based project workflow
-Technologies Used
-Python
-Generative AI Concepts
-IBM SkillsBuild Learning Platform
-Git & GitHub
-Repository Structure
-Projectfiles/
-│
-├── api/
-├── VideoDemo/
-├── Requirement Analysis
-├── Project Planning
-├── Project Design
-├── Performance Testing
-├── Documentation
-└── README.md
-Features
-AI-assisted Smart City solution
-Team-based software development
-Project planning and requirement analysis
-Design documentation
-Testing artifacts
-Demonstration video
-Learning Outcomes
+---
 
-Through this internship project, I gained exposure to:
+##  Technologies Used
 
-Software Development Life Cycle (SDLC)
-Team collaboration
-Requirement analysis
-Project documentation
-Generative AI concepts
-GitHub project management
-Acknowledgements
+* Python
+* Generative AI Concepts
+* IBM SkillsBuild Platform
+* Git & GitHub
 
-This project was completed during the IBM SkillsBuild Generative AI Internship conducted in collaboration with APSCHE. I appreciate the opportunity to learn modern AI concepts and collaborative software development practices through this internship.
+---
+
+## Repository Contents
+
+* Project Documentation
+* Requirement Analysis
+* Project Planning
+* System Design
+* Performance Testing
+* API Files
+* Demonstration Video
+
+---
+
+## Learning Outcomes
+
+During this internship, I gained exposure to:
+
+* Software Development Life Cycle (SDLC)
+* Team Collaboration
+* Requirement Analysis
+* Software Documentation
+* Generative AI Fundamentals
+* GitHub-based Project Management
+
+---
+
+##  Acknowledgements
+
+This project was completed as part of the **IBM SkillsBuild Generative AI Internship** conducted in collaboration with **APSCHE**. It provided valuable exposure to collaborative software development and modern AI concepts.
+
+---
+
